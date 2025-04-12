@@ -39,6 +39,4 @@ A responsive, multi-step onboarding wizard for e-commerce shops to set up their 
 | Carousels              | Bootstrap Carousel       |
 | Form Handling          | Custom jQuery            |
 
----
 
-Feel free to make modifications or add any additional sections as needed. Let me know if you'd like further enhancements!
