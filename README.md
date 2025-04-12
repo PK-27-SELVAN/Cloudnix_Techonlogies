@@ -22,10 +22,11 @@ A responsive, multi-step onboarding wizard for e-commerce shops to set up their 
 - Live product card preview
 
 ### 💰 Pricing Tools
-- Net price vs list price comparison
-- Automatic discount calculation
-- GST/tax configuration
-- Shipping cost integration
+- Net price
+- List price
+- Discount
+- GST tax 
+- Shipping cost 
 
 ---
 
